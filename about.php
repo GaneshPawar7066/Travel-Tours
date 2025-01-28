@@ -22,7 +22,7 @@
     <!-- header section starts  -->
 
     <section class="header">
-    <a href=""><img class="lgo" src="logo6.avif" alt=""></a>
+    <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
         <a href="home.php" class="logo">Tours & Travels</a>
 
         <nav class="navbar">
@@ -42,7 +42,7 @@
 
     <!-- header section ends -->
 
-    <div class="heading" style="background: url(sec.jpg) no-repeat">
+    <div class="heading" style="background: url(img/sec.jpg) no-repeat">
         <h1>about us</h1>
     </div>
 
@@ -52,7 +52,7 @@
 
     <section class="about">
         <div class="image">
-            <img src="p1.jpg" alt="">
+            <img src="img/p1.jpg" alt="">
         </div>
         
 
@@ -100,7 +100,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <img src="images.jpg" alt="">
+                    <img src="img/images.jpg" alt="">
                     <h3>john deo</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nihil ducimus corporis a ab consectetur iure dolores natus. Architecto aliquid praesentium debitis tempora nobis atque!</p>
@@ -115,7 +115,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <img src="images.jpg" alt="">
+                    <img src="img/images.jpg" alt="">
                     <h3>john deo</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nihil ducimus corporis a ab consectetur iure dolores natus. Architecto aliquid praesentium debitis tempora nobis atque!</p>
@@ -131,7 +131,7 @@
                         <i class="fas fa-star"></i>
 
                     </div>
-                    <img src="img1.jpg" alt="">
+                    <img src="img/img1.jpg" alt="">
                     <h3>royls roy</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam odio labore dolore, illo reiciendis, doloribus amet magni, explicabo rerum delectus autem quibusdam nulla mollitia maxime. Ipsam sint doloremque aspernatur deserunt ipsum. Earum, atque!
@@ -145,7 +145,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <img src="images2.jpg" alt="">
+                    <img src="img/images2.jpg" alt="">
                     <h3>ashish jah</h3>
                      <span>traveler</span>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod ratione optio eius alias error doloremque est nihil animi minima. Unde.</p>
@@ -159,7 +159,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <img src="images.jpg" alt="">
+                    <img src="img/images.jpg" alt="">
                     <h3>john deo</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nihil ducimus corporis a ab consectetur iure dolores natus. Architecto aliquid praesentium debitis tempora nobis atque!</p>
@@ -172,7 +172,7 @@
                         <i class="fas fa-star"></i>
 
                     </div>
-                    <img src="img1.jpg" alt="">
+                    <img src="img/img1.jpg" alt="">
                     <h3>royls roy</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam odio labore dolore, illo reiciendis, doloribus amet magni, explicabo rerum delectus autem quibusdam nulla mollitia maxime. Ipsam sint doloremque aspernatur deserunt ipsum. Earum, atque!
@@ -187,7 +187,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <img src="images.jpg" alt="">
+                    <img src="img/images.jpg" alt="">
                     <h3>john deo</h3>
                     <span>traveler</span>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nihil ducimus corporis a ab consectetur iure dolores natus. Architecto aliquid praesentium debitis tempora nobis atque!</p>
@@ -197,19 +197,6 @@
         </div>
     </section>
     <!-- reviews section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -247,7 +234,7 @@
                 <a href="#"> <i class="fas fa-phone"></i> +123 -456 -7890</a>
                 <a href="#"> <i class="fas fa-phone"></i> +111 -222 -3333</a>
                 <a href="#"> <i class="fas fa-envelope"></i>yogesh@gmail.com</a>
-                <a href="#"> <i class="fas fa-map"></i>sambhajinagar, india, -431003</a>
+                <a href="#"> <i class="fas fa-map"></i>sambhajinagar -431003</a>
             </div>
 
             <div class="box">

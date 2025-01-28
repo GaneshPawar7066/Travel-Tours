@@ -22,7 +22,7 @@
     <!-- header section starts  -->
 
     <section class="header">
-    <a href=""><img class="lgo" src="logo6.avif" alt=""></a>
+    <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
         <a href="home.php" class="logo">Tours & Travels</a>
 
         <nav class="navbar">
@@ -42,7 +42,7 @@
 
     <!-- header section ends -->
 
-    <div class="heading" style="background: url(third.webp) no-repeat; height:15rem;">
+    <div class="heading" style="background: url(img/third.webp) no-repeat; height:15rem;">
         <h1 class="boo">book now !</h1>
     </div>
 
@@ -115,21 +115,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- footer section starts -->
 
     <section class="footer">
@@ -158,7 +143,7 @@
                 <a href="#"> <i class="fas fa-phone"></i> +123 -456 -7890</a>
                 <a href="#"> <i class="fas fa-phone"></i> +111 -222 -3333</a>
                 <a href="#"> <i class="fas fa-envelope"></i>yogesh@gmail.com</a>
-                <a href="#"> <i class="fas fa-map"></i>sambhajinagar, india, -431003</a>
+                <a href="#"> <i class="fas fa-map"></i>sambhajinagar -431003</a>
             </div>
 
             <div class="box">

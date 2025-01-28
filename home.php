@@ -24,7 +24,7 @@
     <!-- header section starts  -->
 
     <section class="header">
-        <a href=""><img class="lgo" src="logo6.avif" alt=""></a>
+        <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
         <a href="home.php" class="logo">Tours & Travels</a>
 
         <nav class="navbar">
@@ -50,7 +50,7 @@
         <div class="swiper home-slider">
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide slide" style="background:url(header-bg-1.png) no-repeat;  background-color: #1d1b1b00;">
+                <div class="swiper-slide slide" style="background:url(img/header-bg-1.png) no-repeat;  background-color: #1d1b1b00;">
 
                     <div class="content">
                         <span>explore, discover & travel</span>
@@ -60,7 +60,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(header-bg-2.png) no-repeat">
+                <div class="swiper-slide slide" style="background:url(img/header-bg-2.png) no-repeat">
 
                     <div class="content">
                         <span>explore, discover & travel</span>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(header-bg-3.png) no-repeat">
+                <div class="swiper-slide slide" style="background:url(img/header-bg-3.png) no-repeat">
 
                     <div class="content">
                         <span>explore, discover &travel</span>
@@ -101,32 +101,32 @@
 
         <div class="box-container" style="margin-left: 2px;">
             <div class="box">
-                <img src="adventure.png" alt=""></i>
+                <img src="img/adventure.png" alt=""></i>
                 <h3><a href="package.php">adventure</a> </h3>
             </div>
 
             <div class="box">
-                <img src="guide.png" alt="">
+                <img src="img/guide.png" alt="">
                 <h3><a href="package.php">tour guid</a> </h3>
             </div>
 
             <div class="box">
-                <img src="treaking.png" alt="">
+                <img src="img/treaking.png" alt="">
                 <h3> <a href="package.php"> trekking</a></h3>
             </div>
 
             <div class="box">
-                <img src="fire.png" alt="">
+                <img src="img/fire.png" alt="">
                 <h3><a href="package.php">camp fire</a> </h3>
             </div>
 
             <div class="box">
-                <img src="offr.png" alt="">
+                <img src="img/offr.png" alt="">
                 <h3><a href="package.php">off road</a> </h3>
             </div>
 
             <div class="box">
-                <img src="camping.png" alt="">
+                <img src="img/camping.png" alt="">
                 <h3><a href="package.php"> camping</a></h3>
             </div>
         </div>
@@ -141,7 +141,7 @@
     <section class="home-about">
 
         <div class="image">
-            <img src="travel1.jpg" alt="">
+            <img src="img/travel1.jpg" alt="">
         </div>
 
         <div class="content">
@@ -165,7 +165,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="lonavala.jpg" alt="">
+                    <img src="img/lonavala.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3>Lonavala Tourism</h3>
@@ -177,7 +177,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="mh1.webp" alt="">
+                    <img src="img/mh1.webp" alt="">
                 </div>
                 <div class="content">
                     <h3>Helen's Point</h3>
@@ -188,7 +188,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="korigad.jpg" alt="">
+                    <img src="img/korigad.jpg" alt="">
                 </div>
                 <div class="content">
                     <h3> Korigad fort hill</h3>
@@ -225,25 +225,6 @@
     <!-- home offer section ends -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- footer section starts -->
 
     <section class="footer">
@@ -272,7 +253,7 @@
                 <a href="#"> <i class="fas fa-phone"></i> +123 -456 -7890</a>
                 <a href="#"> <i class="fas fa-phone"></i> +111 -222 -3333</a>
                 <a href="#"> <i class="fas fa-envelope"></i>yogesh@gmail.com</a>
-                <a href="#"> <i class="fas fa-map"></i>sambhajinagar, india, -431003</a>
+                <a href="#"> <i class="fas fa-map"></i>sambhajinagar, -431003</a>
             </div>
 
             <div class="box">
@@ -289,18 +270,6 @@
 
 
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

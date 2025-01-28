@@ -22,7 +22,7 @@
     <!-- header section starts  -->
 
     <section class="header">
-    <a href=""><img class="lgo" src="logo6.avif" alt=""></a>
+    <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
         <a href="home.php" class="logo">Tours & Travels</a>
 
         <nav class="navbar">
@@ -42,7 +42,7 @@
 
     <!-- header section ends -->
 
-    <div class="heading" style="background: url(jungle-trekking.jpg); opacity: 0.9;">
+    <div class="heading" style="background: url(img/jungle-trekking.jpg); opacity: 0.9;">
 
         <h1>packages</h1>
     </div>
@@ -55,7 +55,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="lonavala.jpg" alt="">
+                    <img src="img/lonavala.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -67,7 +67,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="mh1.webp" alt="">
+                    <img src="img/mh1.webp" alt="">
                 </div>
 
                 <div class="content">
@@ -79,7 +79,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="travel2.jpeg" alt="">
+                    <img src="img/travel2.jpeg" alt="">
                 </div>
 
                 <div class="content">
@@ -91,7 +91,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="tamini-ghat.jpg" alt="">
+                    <img src="img/tamini-ghat.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -103,7 +103,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="kalasubai.jpg" alt="">
+                    <img src="img/kalasubai.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -115,7 +115,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="satara.jpg" alt="">
+                    <img src="img/satara.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -127,7 +127,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="p1.jpg" alt="">
+                    <img src="img/p1.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -139,7 +139,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="p2.webp" alt="">
+                    <img src="img/p2.webp" alt="">
                 </div>
 
                 <div class="content">
@@ -151,7 +151,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="p4.jpg" alt="">
+                    <img src="img/p4.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -163,7 +163,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="p5.jpg" alt="">
+                    <img src="img/p5.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -175,7 +175,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="p6.jpg" alt="">
+                    <img src="img/p6.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -187,7 +187,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="mh2.webp" alt="">
+                    <img src="img/mh2.webp" alt="">
                 </div>
 
                 <div class="content">
@@ -199,7 +199,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="hariharport.jpg" alt="">
+                    <img src="img/hariharport.jpg" alt="">
                 </div>
 
                 <div class="content">
@@ -211,7 +211,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="kokankada.webp" alt="">
+                    <img src="img/kokankada.webp" alt="">
                 </div>
 
                 <div class="content">
@@ -223,11 +223,11 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="kedarnath.webp" alt="">
+                    <img src="img/kedarnath.webp" alt="">
                 </div>
 
                 <div class="content">
-                    <h3>adventure & tour</h3>
+                    <h3>Kedarnath Temple</h3>
                     <p>a revered Hindu shrine dedicated to Lord Shiva, nestled in the Garhwal Himalayas of Uttarakhand, India. 
  
  Details about the temple: 
@@ -302,7 +302,7 @@
                 <a href="#"> <i class="fas fa-phone"></i> +123 -456 -7890</a>
                 <a href="#"> <i class="fas fa-phone"></i> +111 -222 -3333</a>
                 <a href="#"> <i class="fas fa-envelope"></i>yogesh@gmail.com</a>
-                <a href="#"> <i class="fas fa-map"></i>sambhajinagar, india, -431003</a>
+                <a href="#"> <i class="fas fa-map"></i>sambhajinagar -431003</a>
             </div>
 
             <div class="box">
@@ -319,16 +319,6 @@
 
 
     </section>
-
-
-
-
-
-
-
-
-
-
 
 
 
