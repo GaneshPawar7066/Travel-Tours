@@ -1,17 +1,18 @@
-let menu = document.querySelector('#menu-btn');
-let navbar = document.querySelector('.header .navbar');
+let menu = document.querySelector("#menu-btn");
+let navbar = document.querySelector(".header .navbar");
 
 menu.onclick = () => {
-    menu.classList.toggle('fa-times');
-    navbar.classList.toggle('active');
+    menu.classList.toggle("fa-times");
+    navbar.classList.toggle("active");
 };
 
 window.onscroll = () => {
-    menu.classList.remove('fa-times');
-    navbar.classList.remove('active');
+    menu.classList.remove("fa-times");
+    navbar.classList.remove("active");
 };
 
-var swiper = new swiper(".home-slider", {
+// Swiper for home slider
+var homeSwiper = new Swiper(".home-slider", {
     loop: true,
     navigation: {
         nextEl: ".swiper-button-next",
@@ -19,36 +20,86 @@ var swiper = new swiper(".home-slider", {
     },
 });
 
-var swiper = new swiper(".reviews-slider", {
+// Swiper for reviews slider
+var reviewSwiper = new Swiper(".reviews-slider", {
     loop: true,
     spaceBetween: 20,
     autoHeight: true,
     grabCursor: true,
     breakpoints: {
         640: {
-            slidesPreView: 1,
+            slidesPerView: 1,
         },
         768: {
-            slidesPreView: 2,
+            slidesPerView: 2,
         },
         1024: {
-            slidesPreView: 3,
+            slidesPerView: 3,
         },
     },
-
 });
 
-let loadMoreBtn = document.querySelector('.packages .load-more .btn');
+// Load more functionality
+let loadMoreBtn = document.querySelector(".packages .load-more .btn");
+let boxes = document.querySelectorAll(".packages .box-container .box");
 let currentItem = 3;
 
 loadMoreBtn.onclick = () => {
-    let boxes = [...document.querySelectorAll('.packages .box-container .box')];
-    for (var i = currentItem; i < currentItem + 3; i++) {
-        boxes[i].style.display = 'inline-block';
-    };
+    for (let i = currentItem; i < currentItem + 3 && i < boxes.length; i++) {
+        boxes[i].style.display = "inline-block";
+    }
 
     currentItem += 3;
+
     if (currentItem >= boxes.length) {
-        loadMoreBtn.style.display = 'none';
+        loadMoreBtn.style.display = "none";
     }
+};
+
+
+
+
+// login form 
+
+const container = document.getElementById("container");
+const registerBtn = document.getElementById("register");
+const loginBtn = document.getElementById("login");
+
+registerBtn.addEventListener("click", () => {
+  container.classList.add("active");
+  // window.location="home.php";
+});
+
+loginBtn.addEventListener("click", () => {
+  container.classList.remove("active");
+  // window.location="home.php";
+});
+
+function login() {
+
+  let usarname = document.getElementById("username").value;
+
+  let password2 = document.getElementById("password_user").value;
+
+  // let text_show=document.getElementById("text_show");
+
+  let website_username = ".value";
+
+  let website_password = ".value"
+
+  if (usarname = value && password2 == value) {
+
+    window.location.assign('home.php')
+    alert("Login Successfully !")
+
+  }
+  // window.location="home.php"
 }
+
+
+    
+
+
+
+
+

@@ -22,14 +22,15 @@
     <!-- header section starts  -->
 
     <section class="header">
-    <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
+        <a href=""><img class="lgo" src="img/logo6.avif" alt=""></a>
         <a href="home.php" class="logo">Tours & Travels</a>
 
         <nav class="navbar">
             <a href="home.php">Home</a>
-            <a href="about.php">About</a>
             <a href="package.php">Packages</a>
             <a href="book.php">Book</a>
+            <a href="about.php">About</a>
+            <a href="login.html">login</a>
         </nav>
 
         <div id="menu-btn" class="fas fa-bars"></div>
@@ -42,7 +43,9 @@
 
     <!-- header section ends -->
 
-    <div class="heading" style="background: url(img/jungle-trekking.jpg); opacity: 0.9;">
+    
+
+    <div class="heading" style="background: url(Img/header-bg-3.png); opacity: 1;">
 
         <h1>packages</h1>
     </div>
@@ -71,7 +74,7 @@
                 </div>
 
                 <div class="content">
-                    <h3>Helen’s Point</h3>
+                    <h3>Helen's Point</h3>
                     <p>Situated in the vicinity of the Mahabaleshwar Main market, Helen's Point is a wonderful spot packed with eye catching landscapes. It is also called the Blue Valley. Helen’s Point is a superb point offering delightful vistas which attract innumerable sightseers.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
@@ -228,18 +231,18 @@
 
                 <div class="content">
                     <h3>Kedarnath Temple</h3>
-                    <p>a revered Hindu shrine dedicated to Lord Shiva, nestled in the Garhwal Himalayas of Uttarakhand, India. 
- 
- Details about the temple: 
-  
- Significance:
- It is one of the twelve Jyotirlingas, representing a pillar of divine light emanating from Lord Shiva, and is also part of the Char Dham pilgrimage circuit. 
-  
- Location:
- The temple is situated near the Mandakini River, surrounded by snow-capped peaks, creating a breathtaking setting. 
-  
- History:
- Legend says the original temple was built by the Pandavas.</p>
+                    <p>a revered Hindu shrine dedicated to Lord Shiva, nestled in the Garhwal Himalayas of Uttarakhand, India.
+
+                        Details about the temple:
+
+                        Significance:
+                        It is one of the twelve Jyotirlingas, representing a pillar of divine light emanating from Lord Shiva, and is also part of the Char Dham pilgrimage circuit.
+
+                        Location:
+                        The temple is situated near the Mandakini River, surrounded by snow-capped peaks, creating a breathtaking setting.
+
+                        History:
+                        Legend says the original temple was built by the Pandavas.</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
             </div>
@@ -254,29 +257,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- footer section starts -->
 
-    <section class="footer">
+    <section class="footer" style="background: url(img/footerbg.avif);">
 
         <div class="box-container">
             <div class="box">
@@ -299,9 +282,9 @@
 
             <div class="box">
                 <h3>contact info</h3>
-                <a href="#"> <i class="fas fa-phone"></i> +123 -456 -7890</a>
-                <a href="#"> <i class="fas fa-phone"></i> +111 -222 -3333</a>
-                <a href="#"> <i class="fas fa-envelope"></i>yogesh@gmail.com</a>
+                <a href="#"> <i class="fas fa-phone"></i> +91 937-307-2168</a>
+                <a href="#"> <i class="fas fa-phone"></i> +91 976-344-3981</a>
+                <a href="#"> <i class="fas fa-envelope"></i>tourse99@gmail.com</a>
                 <a href="#"> <i class="fas fa-map"></i>sambhajinagar -431003</a>
             </div>
 
@@ -315,7 +298,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Mr.Yogesh Patil</span> | all rights reserved!</div>
+        <div class="credit"> <img src="img/copyright.png" alt=""> 2025 | all rights reserved!</div>
 
 
     </section>
